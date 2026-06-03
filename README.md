@@ -86,7 +86,7 @@ fraud-detection-clustering-classification.zip
 
 Clone repository ini:
 
-bashgit clone https://github.com/username/fraud-detection-clustering-classification.git
+bashgit clone https://github.com/ListyaDwiSubagya/fraud-detection-clustering-classification.git
 
 Buka notebook di Google Colab atau Jupyter Notebook
 Jalankan notebook Clustering terlebih dahulu, lalu notebook Klasifikasi
